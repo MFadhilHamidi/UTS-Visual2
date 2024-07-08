@@ -24,6 +24,8 @@ type
     con1: TZConnection;
     zqry1: TZQuery;
     ds1: TDataSource;
+    edt4: TEdit;
+    edt5: TEdit;
     procedure btn1Click(Sender: TObject);
     procedure btn2Click(Sender: TObject);
     procedure btn3Click(Sender: TObject);

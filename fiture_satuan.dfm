@@ -1,6 +1,6 @@
 object satuan: Tsatuan
-  Left = 263
-  Top = 144
+  Left = 260
+  Top = 221
   Width = 687
   Height = 450
   Caption = 'satuan'
@@ -117,6 +117,22 @@ object satuan: Tsatuan
     Height = 21
     TabOrder = 7
     Text = 'Muhammad Fadhil Hamidi - 2210010243 - 4M'
+  end
+  object edt4: TEdit
+    Left = 504
+    Top = 336
+    Width = 121
+    Height = 21
+    TabOrder = 8
+    Text = 'Database : penjualan'
+  end
+  object edt5: TEdit
+    Left = 504
+    Top = 360
+    Width = 121
+    Height = 21
+    TabOrder = 9
+    Text = 'Tabel : satuan'
   end
   object con1: TZConnection
     ControlsCodePage = cGET_ACP
